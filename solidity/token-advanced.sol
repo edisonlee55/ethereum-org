@@ -1,9 +1,10 @@
 pragma solidity ^0.4.18;
 /**
  * MyAdvancedToken
- * https://github.com/edisonlee55/ethereum-org/blob/master/solidity/token-advanced.sol
+ * edisonlee55/ethereum-org (https://github.com/edisonlee55/ethereum-org/blob/master/solidity/token-advanced.sol)
  *
  * Copyright (c) 2017 MING-CHIEN LEE
+ * Forked from ethereum/ethereum-org (https://github.com/ethereum/ethereum-org/blob/master/solidity/token-advanced.sol)
  */
 contract owned {
     address public owner;
