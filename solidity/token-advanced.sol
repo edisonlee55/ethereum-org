@@ -1,5 +1,10 @@
-pragma solidity ^0.4.16;
-
+pragma solidity ^0.4.18;
+/**
+ * MyAdvancedToken
+ * https://github.com/edisonlee55/ethereum-org/blob/master/solidity/token-advanced.sol
+ *
+ * Copyright (c) 2017 MING-CHIEN LEE
+ */
 contract owned {
     address public owner;
 
